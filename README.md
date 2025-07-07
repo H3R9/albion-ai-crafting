@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Albion AI Crafting Simulator
 
 ## Estrutura do Projeto
@@ -44,3 +45,6 @@ Você pode hospedar:
 - Adicionar lógica de cálculo e inteligência.
 
 ---
+=======
+# albion-ai-crafting
+>>>>>>> 3627e77dc484a4dcb9209d8d1810e15a59de5b1b
